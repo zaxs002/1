@@ -1,0 +1,36 @@
+table thead,
+table tfoot
+{
+background: none;	
+}
+
+
+table tr.even,
+table tr.alt,
+table tr:nth-of-type(even) {
+	background: none;
+}
+
+table thead tr th,
+table tfoot tr th,
+table tbody tr td,
+table tr td,
+table tfoot tr td {
+	line-height: 1.8rem;
+}
+
+button, .button {
+	text-transform:uppercase;
+	color:#fff !important;
+	font-size:13px !important;
+}
+
+.off-canvas-wrap,
+.inner-wrap, nav.tab-bar,
+.left-off-canvas-menu,
+.left-off-canvas-menu *,
+.right-off-canvas-menu,
+.move-right a.exit-off-canvas,
+.move-left a.exit-off-canvas {
+	-webkit-backface-visibility:visible;
+}

@@ -1,0 +1,2738 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mr. Tailor\n"
+"POT-Creation-Date: 2014-06-04 15:10+0200\n"
+"PO-Revision-Date: 2014-06-04 15:11+0200\n"
+"Last-Translator: Get Bowtied <hq@getbowtied.com>\n"
+"Language-Team: Get Bowtied <hq@getbowtied.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;__ngettext:1,2;_n:1,2;"
+"__ngettext_noop:1,2;_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_ex:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;"
+"esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:14
+msgid "Oops 404 again! That page can&rsquo;t be found."
+msgstr ""
+
+#: ../404.php:18
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below?"
+msgstr ""
+
+#: ../archive.php:30
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: ../archive.php:38
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: ../archive.php:41
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: ../archive.php:44
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: ../archive.php:47
+msgid "Asides"
+msgstr ""
+
+#: ../archive.php:50
+msgid "Images"
+msgstr ""
+
+#: ../archive.php:53
+msgid "Videos"
+msgstr ""
+
+#: ../archive.php:56
+msgid "Quotes"
+msgstr ""
+
+#: ../archive.php:59
+msgid "Links"
+msgstr ""
+
+#: ../archive.php:62 ../sidebar.php:13
+msgid "Archives"
+msgstr ""
+
+#: ../author-bio.php:6
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: ../author-bio.php:11
+#, php-format
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../comments.php:29
+#, php-format
+msgctxt "comments title"
+msgid "One reply on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s replies on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../comments.php:36 ../comments.php:56
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:37 ../comments.php:57
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:38 ../comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:89
+msgid "Leave a Reply"
+msgstr ""
+
+#: ../comments.php:93 ../woocommerce/single-product-reviews.php:67
+msgid "Name"
+msgstr ""
+
+#: ../comments.php:95
+msgid "Email Address"
+msgstr ""
+
+#: ../comments.php:97
+msgid "Website"
+msgstr ""
+
+#: ../comments.php:103
+msgid "Message"
+msgstr ""
+
+#: ../content-aside.php:19 ../content-audio.php:33 ../content-gallery.php:154
+#: ../content-image.php:26 ../content-link.php:28 ../content-page.php:7
+#: ../content-quote.php:30 ../content-search_.php:26 ../content-status.php:19
+#: ../content-video.php:37 ../content.php:53
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../content-aside.php:20 ../content-audio.php:34 ../content-chat.php:33
+#: ../content-gallery.php:156 ../content-image.php:27 ../content-link.php:29
+#: ../content-page.php:8 ../content-quote.php:31 ../content-search_.php:27
+#: ../content-status.php:20 ../content-video.php:38 ../content.php:54
+msgid "Pages:"
+msgstr ""
+
+#: ../content-aside.php:29 ../content-audio.php:44 ../content-chat.php:39
+#: ../content-gallery.php:168 ../content-image.php:36 ../content-link.php:39
+#: ../content-quote.php:40 ../content-status.php:29 ../content-video.php:48
+#: ../content.php:63 ../framework/templates/template-tags.php:198
+#: ../framework/templates/template-tags.php:238 ../page-contact.php:167
+#: ../page-narrow.php:68 ../page.php:59
+#: ../woocommerce/myaccount/my-address.php:74
+msgid "Edit"
+msgstr ""
+
+#: ../content-link.php:23
+msgid "Posted on "
+msgstr ""
+
+#: ../content-none.php:3
+msgid "Nothing Found"
+msgstr ""
+
+#: ../content-none.php:9
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../content-none.php:13
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../content-none.php:18
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../footer.php:33
+msgid "Payment methods"
+msgstr ""
+
+#: ../footer.php:94 ../header-topbar.php:67
+msgid "Logout"
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:196 ../functions.php:138
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:197 ../functions.php:139
+msgid "Install Plugins"
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:198 ../functions.php:140
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:199
+msgid "Something went wrong."
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:200 ../functions.php:142
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:201 ../functions.php:143
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:202 ../functions.php:144
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:203 ../functions.php:145
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:204 ../functions.php:146
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:205 ../functions.php:147
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:206 ../functions.php:148
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:207 ../functions.php:149
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:208 ../functions.php:150
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:209
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:210 ../functions.php:152
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:211
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:212
+#: ../framework/inc/class-tgm-plugin-activation.php:1951 ../functions.php:153
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:213
+#: ../framework/inc/class-tgm-plugin-activation.php:1638
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:214
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:215
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:544
+#: ../framework/inc/class-tgm-plugin-activation.php:2168
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:1174
+msgid "Private Repository"
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:1177
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:1182
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:1185
+msgid "Required"
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:1185
+msgid "Recommended"
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:1188
+msgid "Not Installed"
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:1190
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:1290
+#: ../framework/inc/class-tgm-plugin-activation.php:1398
+msgid "Install"
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:1312
+#: ../framework/inc/class-tgm-plugin-activation.php:1399
+msgid "Activate"
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:1361
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:1377
+msgid "Plugin"
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:1378
+msgid "Source"
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:1379
+msgid "Type"
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:1380
+#: ../woocommerce/myaccount/my-orders.php:34
+msgid "Status"
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:1508
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:1616
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:1934
+msgid "Install package not available."
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:1935
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:1936
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:1937
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:1938
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:1939
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:1950
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:2064
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:2065
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:2065
+#: ../framework/inc/class-tgm-plugin-activation.php:2074
+msgid "Show Details"
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:2065
+#: ../framework/inc/class-tgm-plugin-activation.php:2074
+msgid "Hide Details"
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:2066
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:2071
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:2072
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:2073
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:2074
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:2075
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:2076
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../framework/shortcodes/visual-composer/custom_vc.php:46
+#: ../settings/redux/ReduxCore/inc/fields/typography/field_typography.php:386
+msgid "Height"
+msgstr ""
+
+#: ../framework/shortcodes/visual-composer/custom_vc.php:55
+msgid "Background Style"
+msgstr ""
+
+#: ../framework/shortcodes/visual-composer/custom_vc.php:98
+msgid "Subtitle"
+msgstr ""
+
+#: ../framework/shortcodes/visual-composer/from-the-blog.php:31
+msgid "Posts Slider"
+msgstr ""
+
+#: ../framework/shortcodes/visual-composer/from-the-blog.php:32
+msgid "Content"
+msgstr ""
+
+#: ../framework/shortcodes/visual-composer/from-the-blog.php:33
+msgid "Display the latest posts in the blog"
+msgstr ""
+
+#: ../framework/shortcodes/visual-composer/from-the-blog.php:45
+msgid "Number of Posts"
+msgstr ""
+
+#: ../framework/shortcodes/visual-composer/from-the-blog.php:48
+msgid "Number of posts to be displayed in the slider."
+msgstr ""
+
+#: ../framework/shortcodes/visual-composer/from-the-blog.php:55
+#: ../framework/shortcodes/visual-composer/wc-products-by-category.php:38
+msgid "Category"
+msgstr ""
+
+#: ../framework/shortcodes/visual-composer/social-media-profiles.php:6
+msgid "Social Media Profiles"
+msgstr ""
+
+#: ../framework/shortcodes/visual-composer/social-media-profiles.php:7
+msgid "Social"
+msgstr ""
+
+#: ../framework/shortcodes/visual-composer/social-media-profiles.php:8
+msgid "Links to your social media profiles"
+msgstr ""
+
+#: ../framework/shortcodes/visual-composer/social-media-profiles.php:19
+msgid "Align"
+msgstr ""
+
+#: ../framework/shortcodes/visual-composer/vc_templates/vc_accordion_tab.php:5
+msgid "Section"
+msgstr ""
+
+#: ../framework/shortcodes/visual-composer/vc_templates/vc_accordion_tab.php:12
+msgid "Empty section. Edit page to add content here."
+msgstr ""
+
+#: ../framework/shortcodes/visual-composer/vc_templates/vc_button2.php:4
+msgid "Text on the button"
+msgstr ""
+
+#: ../framework/shortcodes/visual-composer/wc-add-to-cart-button.php:6
+msgid "Add to Cart Button"
+msgstr ""
+
+#: ../framework/shortcodes/visual-composer/wc-add-to-cart-button.php:7
+#: ../framework/shortcodes/visual-composer/wc-add-to-cart-url.php:7
+#: ../framework/shortcodes/visual-composer/wc-best-selling-products.php:7
+#: ../framework/shortcodes/visual-composer/wc-featured-products.php:7
+#: ../framework/shortcodes/visual-composer/wc-product-by-id-sku.php:24
+#: ../framework/shortcodes/visual-composer/wc-product-categories-grid.php:7
+#: ../framework/shortcodes/visual-composer/wc-product-categories.php:7
+#: ../framework/shortcodes/visual-composer/wc-products-by-attribute.php:7
+#: ../framework/shortcodes/visual-composer/wc-products-by-category.php:27
+#: ../framework/shortcodes/visual-composer/wc-products-by-ids-skus.php:34
+#: ../framework/shortcodes/visual-composer/wc-products-by-ids-skus.php:45
+#: ../framework/shortcodes/visual-composer/wc-recent-products.php:7
+#: ../framework/shortcodes/visual-composer/wc-sale-products.php:7
+#: ../framework/shortcodes/visual-composer/wc-top-rated-products.php:7
+msgid "Products"
+msgstr ""
+
+#: ../framework/shortcodes/visual-composer/wc-add-to-cart-button.php:19
+#: ../framework/shortcodes/visual-composer/wc-add-to-cart-url.php:19
+msgid "ID"
+msgstr ""
+
+#: ../framework/shortcodes/visual-composer/wc-add-to-cart-button.php:29
+#: ../framework/shortcodes/visual-composer/wc-add-to-cart-url.php:29
+msgid "SKU"
+msgstr ""
+
+#: ../framework/shortcodes/visual-composer/wc-add-to-cart-url.php:6
+msgid "Add to Cart URL"
+msgstr ""
+
+#: ../framework/shortcodes/visual-composer/wc-add-to-cart-url.php:8
+#: ../settings/redux/ReduxCore/inc/fields/slides/field_slides.php:135
+#: ../settings/redux/ReduxCore/inc/fields/slides/field_slides.php:199
+msgid "Description"
+msgstr ""
+
+#: ../framework/shortcodes/visual-composer/wc-best-selling-products.php:6
+msgid "Best Selling Products"
+msgstr ""
+
+#: ../framework/shortcodes/visual-composer/wc-best-selling-products.php:19
+#: ../framework/shortcodes/visual-composer/wc-featured-products.php:19
+#: ../framework/shortcodes/visual-composer/wc-products-by-attribute.php:39
+#: ../framework/shortcodes/visual-composer/wc-products-by-category.php:46
+#: ../framework/shortcodes/visual-composer/wc-recent-products.php:19
+#: ../framework/shortcodes/visual-composer/wc-sale-products.php:19
+#: ../framework/shortcodes/visual-composer/wc-top-rated-products.php:19
+msgid "Number of Products"
+msgstr ""
+
+#: ../framework/shortcodes/visual-composer/wc-best-selling-products.php:29
+#: ../framework/shortcodes/visual-composer/wc-featured-products.php:29
+#: ../framework/shortcodes/visual-composer/wc-product-categories.php:29
+#: ../framework/shortcodes/visual-composer/wc-products-by-attribute.php:49
+#: ../framework/shortcodes/visual-composer/wc-products-by-category.php:56
+#: ../framework/shortcodes/visual-composer/wc-products-by-ids-skus.php:54
+#: ../framework/shortcodes/visual-composer/wc-recent-products.php:29
+#: ../framework/shortcodes/visual-composer/wc-sale-products.php:29
+#: ../framework/shortcodes/visual-composer/wc-top-rated-products.php:29
+msgid "Columns"
+msgstr ""
+
+#: ../framework/shortcodes/visual-composer/wc-featured-products.php:6
+msgid "Featured Products"
+msgstr ""
+
+#: ../framework/shortcodes/visual-composer/wc-featured-products.php:39
+#: ../framework/shortcodes/visual-composer/wc-product-categories-grid.php:31
+#: ../framework/shortcodes/visual-composer/wc-product-categories.php:39
+#: ../framework/shortcodes/visual-composer/wc-products-by-attribute.php:59
+#: ../framework/shortcodes/visual-composer/wc-products-by-category.php:66
+#: ../framework/shortcodes/visual-composer/wc-products-by-ids-skus.php:64
+#: ../framework/shortcodes/visual-composer/wc-recent-products.php:39
+#: ../framework/shortcodes/visual-composer/wc-sale-products.php:39
+#: ../framework/shortcodes/visual-composer/wc-top-rated-products.php:39
+msgid "Order By"
+msgstr ""
+
+#: ../framework/shortcodes/visual-composer/wc-featured-products.php:56
+#: ../framework/shortcodes/visual-composer/wc-product-categories-grid.php:49
+#: ../framework/shortcodes/visual-composer/wc-product-categories.php:57
+#: ../framework/shortcodes/visual-composer/wc-products-by-attribute.php:76
+#: ../framework/shortcodes/visual-composer/wc-products-by-category.php:83
+#: ../framework/shortcodes/visual-composer/wc-products-by-ids-skus.php:81
+#: ../framework/shortcodes/visual-composer/wc-recent-products.php:56
+#: ../framework/shortcodes/visual-composer/wc-sale-products.php:56
+#: ../framework/shortcodes/visual-composer/wc-top-rated-products.php:56
+#: ../woocommerce/myaccount/my-orders.php:32
+msgid "Order"
+msgstr ""
+
+#: ../framework/shortcodes/visual-composer/wc-product-by-id-sku.php:23
+msgid "Single Product"
+msgstr ""
+
+#: ../framework/shortcodes/visual-composer/wc-product-by-id-sku.php:35
+#: ../woocommerce/cart/cart.php:32 ../woocommerce/checkout/review-order.php:21
+#: ../woocommerce/order/order-details.php:27
+msgid "Product"
+msgstr ""
+
+#: ../framework/shortcodes/visual-composer/wc-product-categories-grid.php:6
+msgid "Product Categories - Grid"
+msgstr ""
+
+#: ../framework/shortcodes/visual-composer/wc-product-categories-grid.php:21
+#: ../framework/shortcodes/visual-composer/wc-product-categories.php:19
+msgid "How many product categories to display?"
+msgstr ""
+
+#: ../framework/shortcodes/visual-composer/wc-product-categories-grid.php:63
+#: ../framework/shortcodes/visual-composer/wc-product-categories.php:71
+msgid "Hide Empty"
+msgstr ""
+
+#: ../framework/shortcodes/visual-composer/wc-product-categories-grid.php:77
+#: ../framework/shortcodes/visual-composer/wc-product-categories.php:85
+msgid "Parent"
+msgstr ""
+
+#: ../framework/shortcodes/visual-composer/wc-product-categories-grid.php:78
+#: ../framework/shortcodes/visual-composer/wc-product-categories.php:86
+msgid "Set the parent paramater to 0 to only display top level categories."
+msgstr ""
+
+#: ../framework/shortcodes/visual-composer/wc-product-categories-grid.php:87
+#: ../framework/shortcodes/visual-composer/wc-product-categories.php:95
+msgid "IDs"
+msgstr ""
+
+#: ../framework/shortcodes/visual-composer/wc-product-categories-grid.php:88
+#: ../framework/shortcodes/visual-composer/wc-product-categories.php:96
+msgid "Set ids to a comma separated list of category ids to only show those."
+msgstr ""
+
+#: ../framework/shortcodes/visual-composer/wc-product-categories.php:6
+msgid "Product Categories - Thumbs"
+msgstr ""
+
+#: ../framework/shortcodes/visual-composer/wc-products-by-attribute.php:6
+msgid "Products by Attribute"
+msgstr ""
+
+#: ../framework/shortcodes/visual-composer/wc-products-by-attribute.php:19
+msgid "Attribute"
+msgstr ""
+
+#: ../framework/shortcodes/visual-composer/wc-products-by-attribute.php:29
+msgid "Filter"
+msgstr ""
+
+#: ../framework/shortcodes/visual-composer/wc-products-by-category.php:26
+msgid "Products by Category"
+msgstr ""
+
+#: ../framework/shortcodes/visual-composer/wc-products-by-ids-skus.php:33
+msgid "Multiple / Specific Products"
+msgstr ""
+
+#: ../framework/shortcodes/visual-composer/wc-products-by-ids-skus.php:47
+msgid "Select the products you'd like to display."
+msgstr ""
+
+#: ../framework/shortcodes/visual-composer/wc-recent-products.php:6
+msgid "Recent Products"
+msgstr ""
+
+#: ../framework/shortcodes/visual-composer/wc-sale-products.php:6
+msgid "Sale Products"
+msgstr ""
+
+#: ../framework/shortcodes/visual-composer/wc-top-rated-products.php:6
+msgid "Top Rated Products"
+msgstr ""
+
+#: ../framework/templates/post-meta.php:8
+msgid "Sticky"
+msgstr ""
+
+#: ../framework/templates/post-meta.php:12
+msgid " This entry was posted by "
+msgstr ""
+
+#: ../framework/templates/post-meta.php:14
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: ../framework/templates/post-meta.php:25
+msgid " in "
+msgstr ""
+
+#: ../framework/templates/post-meta.php:31
+msgid " and tagged "
+msgstr ""
+
+#: ../framework/templates/post-meta.php:42
+#: ../framework/templates/post-meta.php:63
+#, php-format
+msgctxt "1: post format name. 2: date"
+msgid "%1$s on %2$s"
+msgstr ""
+
+#: ../framework/templates/post-meta.php:46
+msgid " on "
+msgstr ""
+
+#: ../framework/templates/post-meta.php:48
+#: ../framework/templates/post-meta.php:69
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: ../framework/templates/template-tags.php:77
+#: ../framework/templates/template-tags.php:81
+msgid "Previous Reading"
+msgstr ""
+
+#: ../framework/templates/template-tags.php:93
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: ../framework/templates/template-tags.php:99
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../framework/templates/template-tags.php:198
+msgid "Pingback:"
+msgstr ""
+
+#: ../framework/templates/template-tags.php:213
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../framework/templates/template-tags.php:216
+#: ../woocommerce/single-product/review.php:39
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../framework/templates/template-tags.php:221
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../framework/widgets/woocommerce-best-sellers.php:22
+msgid "Best Sellers"
+msgstr ""
+
+#: ../framework/widgets/woocommerce-cart.php:12
+msgid "Display the user's Cart in the sidebar."
+msgstr ""
+
+#: ../framework/widgets/woocommerce-cart.php:14
+msgid "WooCommerce Cart"
+msgstr ""
+
+#: ../framework/widgets/woocommerce-cart.php:18
+msgid "Cart"
+msgstr ""
+
+#: ../framework/widgets/woocommerce-cart.php:19
+#: ../settings/redux/ReduxCore/inc/fields/slides/field_slides.php:133
+#: ../settings/redux/ReduxCore/inc/fields/slides/field_slides.php:197
+msgid "Title"
+msgstr ""
+
+#: ../framework/widgets/woocommerce-cart.php:24
+msgid "Hide if cart is empty"
+msgstr ""
+
+#: ../framework/widgets/woocommerce-cart.php:45
+msgid "Shopping Cart"
+msgstr ""
+
+#: ../functions.php:141
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../functions.php:151
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../functions.php:154
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../functions.php:204
+msgid "No Border"
+msgstr ""
+
+#: ../functions.php:293
+msgid "Top Bar Navigation"
+msgstr ""
+
+#: ../functions.php:294
+msgid "Main Navigation"
+msgstr ""
+
+#: ../functions.php:421
+msgid "Home"
+msgstr ""
+
+#: ../functions.php:468
+msgid "Sidebar"
+msgstr ""
+
+#: ../functions.php:478
+msgid "Footer Widget Area"
+msgstr ""
+
+#: ../functions.php:488
+msgid "Shop Sidebar (Off-Canvas)"
+msgstr ""
+
+#: ../image.php:27
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span>. Size: <i class=\"fa fa-picture-o\"></i> <a href="
+"\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <i class="
+"\"fa fa-folder-open\"></i> <a href=\"%6$s\" title=\"Return to %7$s\" rel="
+"\"gallery\">%7$s</a>"
+msgstr ""
+
+#: ../image.php:46
+msgid "&larr; Previous"
+msgstr ""
+
+#: ../image.php:50
+msgid "Next &rarr;"
+msgstr ""
+
+#: ../search.php:17
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../searchform.php:3
+msgid "Search for:"
+msgstr ""
+
+#: ../searchform.php:4
+msgid "Search..."
+msgstr ""
+
+#: ../searchform.php:5
+msgid "Search"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:21
+msgid "General"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:27
+msgid "Favicon"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:28
+msgid ""
+"<em>Upload your custom Favicon image. <br>.ico or .png file required.</em>"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:51
+msgid "Header"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:60
+msgid "<h3 style=\"margin: 0;\">Top Bar</h3>"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:64
+msgid "Top Bar"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:65
+msgid "<em>Enable / Disable the Top Bar.</em>"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:67 ../settings/mrtailor.config.php:124
+#: ../settings/mrtailor.config.php:181 ../settings/mrtailor.config.php:211
+#: ../settings/mrtailor.config.php:221 ../settings/mrtailor.config.php:231
+#: ../settings/mrtailor.config.php:308 ../settings/mrtailor.config.php:317
+msgid "Enabled"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:68 ../settings/mrtailor.config.php:125
+#: ../settings/mrtailor.config.php:182 ../settings/mrtailor.config.php:212
+#: ../settings/mrtailor.config.php:222 ../settings/mrtailor.config.php:232
+#: ../settings/mrtailor.config.php:309 ../settings/mrtailor.config.php:318
+msgid "Disabled"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:74
+msgid "Top Bar Background Color"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:75 ../settings/mrtailor.config.php:250
+msgid "<em>The Top Bar background color.</em>"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:87
+msgid "Top Bar Text Color"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:88
+msgid "<em>Specify the Top Bar Typography.</em>"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:101
+msgid "Top Bar Text"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:102
+msgid "<em>Type in your Top Bar info here.</em>"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:121
+msgid "Sticky Header"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:122
+msgid "<em>Enable / Disable the Sticky Header.</em>"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:131
+msgid "Your Logo"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:132
+msgid "<em>Upload your logo image.</em>"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:138
+msgid "Your Retina Logo"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:139
+msgid ""
+"<em>Upload a higher-resolution image <br />to be used for retina display "
+"devices.</em>"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:145
+msgid "Logo Height"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:146
+msgid "<em>Drag the slider to set the logo height.</em>"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:157
+msgid "Header Paddings (Top/Bottom)"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:158
+msgid "<em>Drag the slider to set the paddings of the header.</em>"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:169
+msgid "Main Header Background Color"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:170
+msgid "<em>The Main Header background color.</em>"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:178
+msgid "Main Header Transparency"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:179
+msgid "<em>Enable / Disable the Main Header Transparency.</em>"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:188
+msgid "Main Header Typography"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:189
+msgid "<em>Specify the Main Header Typography.</em>"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:208
+msgid "Main Header Wishlist"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:209
+msgid "<em>Enable / Disable the Wishlist in the Header.</em>"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:218
+msgid "Main Header Shopping Bag"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:219
+msgid "<em>Enable / Disable the Shopping Bag in the Header.</em>"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:228
+msgid "Main Header Search bar"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:229
+msgid "<em>Enable / Disable the Search Bar in the Header.</em>"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:243
+msgid "Footer"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:249
+msgid "Footer Background Color"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:257
+msgid "Footer Text"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:258
+msgid "<em>Specify the Footer Text Color.</em>"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:266
+msgid "Footer Links"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:267
+msgid "<em>Specify the Footer Links Color.</em>"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:275
+msgid "Footer Credit Card Icons"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:276
+msgid "<em>Upload your custom icons sprite.</em>"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:285
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:286
+msgid "<em>Enter your copyright information here.</em>"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:298
+msgid "Shop"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:304
+msgid "Catalog Mode"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:305
+msgid "<em>Enable / Disable the Catalog Mode.</em>"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:306
+msgid ""
+"<em>When enabled, the feature Turns Off the shopping functionality of "
+"WooCommerce.</em>"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:314
+msgid "Breadcrumbs"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:315
+msgid "<em>Enable / Disable the Breadcrumbs.</em>"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:324
+msgid "Number of Products per Column"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:325
+msgid ""
+"<em>Drag the slider to set the number of products per column <br />to be "
+"listed on the shop page and catalog pages.</em>"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:335
+msgid "Number of Products per Page"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:336
+msgid ""
+"<em>Drag the slider to set the number of products per page <br />to be "
+"listed on the shop page and catalog pages.</em>"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:347
+msgid "Product Animation"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:348
+msgid "<em>A list of all the product animations.</em>"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:371
+msgid "Blog"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:376
+msgid "Blog Layout"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:377
+msgid ""
+"<em>Select the layout style for the Blog Listing. <br />The second option "
+"will enable the Blog Listing Sidebar.</em>"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:394
+msgid "Styling"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:400
+msgid "Main Theme Color"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:401
+msgid "<em>The main color of the site.</em>"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:409
+msgid "Background Color"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:410
+msgid "<em>The main background color of the site.</em>"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:418
+msgid "Background Image"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:419
+msgid "<em>Upload a background image or specify an image URL.</em>"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:431
+msgid "Typography"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:437
+msgid "Main Font"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:438
+msgid "<em>Pick the Main Font for your site.</em>"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:454
+msgid "Secondary Font"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:455
+msgid "<em>Pick the Secondary Font for your site.</em>"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:477
+msgid "Social Media"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:483
+msgid "Facebook"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:484
+msgid "<em>Type your Facebook profile URL here.</em>"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:491
+msgid "Twitter"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:492
+msgid "<em>Type your Twitter profile URL here.</em>"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:499
+msgid "Pinterest"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:500
+msgid "<em>Type your Pinterest profile URL here.</em>"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:507
+msgid "LinkedIn"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:508
+msgid "<em>Type your LinkedIn profile URL here.</em>"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:514
+msgid "Google+"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:515
+msgid "<em>Type your Google+ profile URL here.</em>"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:521
+msgid "RSS"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:522
+msgid "<em>Type your RSS Feed URL here.</em>"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:528
+msgid "Tumblr"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:529
+msgid "<em>Type your Tumblr URL here.</em>"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:535
+msgid "Instagram"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:536
+msgid "<em>Type your Instagram profile URL here.</em>"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:543
+msgid "Youtube"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:544
+msgid "<em>Type your Youtube profile URL here.</em>"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:551
+msgid "Vimeo"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:552
+msgid "<em>Type your Vimeo profile URL here.</em>"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:563
+msgid "Custom Code"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:569
+msgid "Custom CSS"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:570
+msgid "<em>Paste your custom CSS code here.</em>"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:577
+msgid "Header JavaScript Code"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:578
+msgid ""
+"<em>Paste your custom JS code here. The code will be added to the header of "
+"your site.</em>"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:585
+msgid "Footer JavaScript Code"
+msgstr ""
+
+#: ../settings/mrtailor.config.php:586
+msgid ""
+"<em>Here is the place to paste your Google Analytics code or any other JS "
+"code you might want to add to be loaded in the footer of your website.</em>"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/extensions/customizer/extension_customizer.php:408
+#: ../settings/redux/ReduxCore/framework.php:1736
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/extensions/customizer/extension_customizer.php:409
+#: ../settings/redux/ReduxCore/framework.php:1737
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: ../settings/redux/ReduxCore/extensions/customizer/extension_customizer.php:410
+#: ../settings/redux/ReduxCore/framework.php:1739
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/extensions/customizer/extension_customizer.php:441
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/extensions/customizer/extension_customizer.php:442
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+
+#: ../settings/redux/ReduxCore/extensions/customizer/extension_customizer.php:443
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would "
+"you like to proceed?"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/framework.php:207
+#, php-format
+msgid "Options panel created using %1$s"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/framework.php:207
+msgid "Redux Framework"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/framework.php:210
+#: ../settings/redux/ReduxCore/framework.php:213
+#: ../settings/redux/ReduxCore/framework.php:1333
+msgid "Options"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/framework.php:493
+msgid "Dismiss"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/framework.php:1277
+#: ../settings/redux/ReduxCore/framework.php:1278
+#: ../settings/redux/ReduxCore/framework.php:2900
+#: ../settings/redux/ReduxCore/framework.php:2960
+msgid "System Info"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/framework.php:1738
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+#: ../settings/redux/ReduxCore/framework.php:1740
+msgid "Please Wait"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/framework.php:1876
+msgid "Hints"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/framework.php:1877
+msgid "<p>"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/framework.php:1985
+msgid "Default"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/framework.php:2729
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/framework.php:2791
+msgid "Expand"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/framework.php:2793
+#: ../settings/redux/ReduxCore/framework.php:3010
+msgid "Save Changes"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/framework.php:2795
+#: ../settings/redux/ReduxCore/framework.php:3012
+msgid "Reset Section"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/framework.php:2797
+#: ../settings/redux/ReduxCore/framework.php:3014
+msgid "Reset All"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/framework.php:2800
+#: ../settings/redux/ReduxCore/framework.php:3017
+msgid "Working..."
+msgstr ""
+
+#: ../settings/redux/ReduxCore/framework.php:2812
+msgid "Settings Imported!"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/framework.php:2825
+msgid "All Defaults Restored!"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/framework.php:2838
+msgid "Section Defaults Restored!"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/framework.php:2845
+msgid "Settings Saved!"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/framework.php:2852
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/framework.php:2853
+msgid "error(s) were found!"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/framework.php:2854
+msgid "warning(s) were found!"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/debug.php:41
+#: ../settings/redux/ReduxCore/inc/debug.php:69
+#: ../settings/redux/ReduxCore/inc/debug.php:76
+#: ../settings/redux/ReduxCore/inc/debug.php:77
+msgid "Options Object"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/debug.php:54
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/background/field_background.php:118
+#: ../settings/redux/ReduxCore/inc/fields/color/field_color.php:72
+#: ../settings/redux/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:81
+#: ../settings/redux/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:91
+#: ../settings/redux/ReduxCore/inc/fields/color_rgba/field_color_rgba.php:85
+msgid "Transparent"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/background/field_background.php:135
+msgid "Background Repeat"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/background/field_background.php:151
+msgid "Background Clip"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/background/field_background.php:167
+msgid "Background Origin"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/background/field_background.php:182
+msgid "Background Size"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/background/field_background.php:197
+msgid "Background Attachment"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/background/field_background.php:217
+msgid "Background Position"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/background/field_background.php:272
+#: ../settings/redux/ReduxCore/inc/fields/media/field_media.php:116
+msgid "No media selected"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/background/field_background.php:306
+#: ../settings/redux/ReduxCore/inc/fields/media/field_media.php:155
+#: ../settings/redux/ReduxCore/inc/fields/slides/field_slides.php:121
+#: ../settings/redux/ReduxCore/inc/fields/slides/field_slides.php:190
+msgid "Upload"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/background/field_background.php:312
+#: ../settings/redux/ReduxCore/inc/fields/media/field_media.php:161
+#: ../settings/redux/ReduxCore/inc/fields/multi_text/field_multi_text.php:75
+#: ../settings/redux/ReduxCore/inc/fields/multi_text/field_multi_text.php:79
+#: ../settings/redux/ReduxCore/inc/fields/multi_text/field_multi_text.php:82
+#: ../settings/redux/ReduxCore/inc/fields/slides/field_slides.php:128
+#: ../settings/redux/ReduxCore/inc/fields/slides/field_slides.php:192
+msgid "Remove"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/border/field_border.php:113
+#: ../settings/redux/ReduxCore/inc/fields/spacing/field_spacing.php:151
+msgid "All"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/border/field_border.php:126
+#: ../settings/redux/ReduxCore/inc/fields/spacing/field_spacing.php:175
+msgid "Top"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/border/field_border.php:133
+#: ../settings/redux/ReduxCore/inc/fields/spacing/field_spacing.php:182
+msgid "Right"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/border/field_border.php:140
+#: ../settings/redux/ReduxCore/inc/fields/spacing/field_spacing.php:189
+msgid "Bottom"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/border/field_border.php:147
+#: ../settings/redux/ReduxCore/inc/fields/spacing/field_spacing.php:196
+msgid "Left"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/border/field_border.php:162
+msgid "Border style"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:73
+msgid "From "
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:84
+msgid "To "
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/dimensions/field_dimensions.php:121
+msgid "Width"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/dimensions/field_dimensions.php:137
+msgid "height"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/dimensions/field_dimensions.php:149
+#: ../settings/redux/ReduxCore/inc/fields/dimensions/field_dimensions.php:150
+#: ../settings/redux/ReduxCore/inc/fields/spacing/field_spacing.php:206
+#: ../settings/redux/ReduxCore/inc/fields/spacing/field_spacing.php:207
+msgid "Units"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/gallery/field_gallery.php:77
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/gallery/field_gallery.php:78
+msgid "Clear Gallery"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/group/field_group.php:82
+msgid "New "
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/group/field_group.php:125
+msgid "Delete"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/group/field_group.php:129
+msgid "Add"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/import_export/import_export.php:77
+msgid "Import / Export Options"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/import_export/import_export.php:80
+msgid "Import Options"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/import_export/import_export.php:81
+msgid "Import from file"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/import_export/import_export.php:81
+msgid "Import from URL"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/import_export/import_export.php:85
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/import_export/import_export.php:93
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/import_export/import_export.php:99
+msgid "Import"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/import_export/import_export.php:99
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/import_export/import_export.php:102
+msgid "Export Options"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/import_export/import_export.php:105
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/import_export/import_export.php:109
+msgid "Copy"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/import_export/import_export.php:109
+msgid "Download"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/import_export/import_export.php:109
+msgid "Copy Link"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/import_export/import_export.php:149
+#: ../settings/redux/ReduxCore/inc/fields/import_export/import_export.php:158
+#: ../settings/redux/ReduxCore/inc/fields/import_export/import_export.php:159
+msgid "Import / Export"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/link_color/field_link_color.php:91
+msgid "Regular"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/link_color/field_link_color.php:95
+msgid "Hover"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/link_color/field_link_color.php:99
+msgid "Visited"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/link_color/field_link_color.php:103
+msgid "Active"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/multi_text/field_multi_text.php:65
+msgid "Add More"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/password/field_password.php:55
+#: ../woocommerce/myaccount/form-edit-account.php:35
+msgid "Password"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/password/field_password.php:56
+msgid "Username"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/select/field_select.php:76
+#: ../settings/redux/ReduxCore/inc/fields/select_image/field_select_image.php:58
+msgid "Select an item"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/select/field_select.php:117
+#: ../settings/redux/ReduxCore/inc/fields/select_image/field_select_image.php:133
+msgid "No items of this type were found."
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/slides/field_slides.php:137
+#: ../settings/redux/ReduxCore/inc/fields/slides/field_slides.php:201
+msgid "URL"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/slides/field_slides.php:168
+#: ../settings/redux/ReduxCore/inc/fields/slides/field_slides.php:231
+msgid "Delete Slide"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/slides/field_slides.php:234
+msgid "Add Slide"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/switch/field_switch.php:42
+msgid "On"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/switch/field_switch.php:49
+msgid "Off"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/typography/field_typography.php:163
+msgid "Font family"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/typography/field_typography.php:190
+msgid "Standard Fonts"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/typography/field_typography.php:253
+msgid "Backup Font Family"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/typography/field_typography.php:273
+#: ../settings/redux/ReduxCore/inc/fields/typography/field_typography.php:277
+msgid "Font style"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/typography/field_typography.php:277
+msgid "Style"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/typography/field_typography.php:306
+msgid "Font subsets"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/typography/field_typography.php:307
+msgid "Subsets"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/typography/field_typography.php:307
+msgid "Font script"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/typography/field_typography.php:324
+#: ../settings/redux/ReduxCore/inc/fields/typography/field_typography.php:325
+msgid "Text Align"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/typography/field_typography.php:348
+#: ../settings/redux/ReduxCore/inc/fields/typography/field_typography.php:349
+msgid "Text Transform"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/typography/field_typography.php:378
+msgid "Size"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/typography/field_typography.php:394
+msgid "Word Spacing"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/typography/field_typography.php:403
+msgid "Letter Spacing"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/typography/field_typography.php:420
+msgid "Font color"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/fields/typography/field_typography.php:762
+msgid "Google Webfonts"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/tracking.php:111
+msgid "Help improve Our Panel"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/tracking.php:112
+msgid ""
+"Please helps us improve our panel by allowing us to gather anonymous usage "
+"stats so we know which configurations, plugins and themes to test to ensure "
+"compatability."
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/tracking.php:117
+msgid "Allow tracking"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/tracking.php:122
+msgid "Do not allow tracking"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/tracking.php:132
+msgid "Welcome to the Redux Demo Panel"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/tracking.php:133
+msgid "Getting Started"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/tracking.php:133
+#, php-format
+msgid ""
+"This panel demonstrates the many features of Redux.  Before digging in, we "
+"suggest you get up to speed by reviewing %1$s."
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/tracking.php:133
+msgid "our documentation"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/tracking.php:134
+msgid "Redux Generator"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/tracking.php:134
+#, php-format
+msgid ""
+"Want to get a head start? Use the %1$s. It will create a customized "
+"boilerplate theme or a standalone admin folder complete with all things "
+"Redux (with the help of Underscores and TGM). Save yourself a headache and "
+"try it today."
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/tracking.php:135
+msgid "Redux Extensions"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/tracking.php:135
+#, php-format
+msgid ""
+"Did you know we have extensions, which greatly enhance the features of "
+"Redux?  Visit our %1$s to learn more!"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/tracking.php:135
+msgid "extensions directory"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/tracking.php:136
+msgid "Like Redux?"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/tracking.php:136
+#, php-format
+msgid ""
+"If so, please %1$s and consider making a %2$s to keep development of Redux "
+"moving forward."
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/tracking.php:136
+msgid "leave us a favorable review on WordPress.org"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/tracking.php:136
+msgid "donation"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/tracking.php:137
+msgid "Newsletter"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/tracking.php:137
+msgid ""
+"If you'd like to keep up to with all things Redux, please subscribe to our "
+"newsletter"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/tracking.php:138
+#: ../woocommerce/myaccount/form-edit-account.php:31
+msgid "Email address"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/tracking.php:138
+msgid "Subscribe"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/tracking.php:147
+msgid "Close"
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/validation/color/validation_color.php:15
+#: ../settings/redux/ReduxCore/inc/validation/color_rgba/validation_color_rgba.php:15
+#: ../settings/redux/ReduxCore/inc/validation/colorrgba/validation_colorrgba.php:15
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/validation/comma_numeric/validation_comma_numeric.php:15
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/validation/date/validation_date.php:15
+msgid "This field must be a valid date."
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/validation/email/validation_email.php:15
+#: ../settings/redux/ReduxCore/inc/validation/email_not_empty/validation_email_not_empty.php:15
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/validation/no_special_chars/validation_no_special_chars.php:15
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/validation/not_empty/validation_not_empty.php:15
+msgid "This field cannot be empty. Please provide a value."
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/validation/numeric/validation_numeric.php:15
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: ../settings/redux/ReduxCore/inc/validation/url/validation_url.php:15
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: ../settings/redux/class.redux-plugin.php:308
+msgid "Redux Framework has an embedded demo."
+msgstr ""
+
+#: ../settings/redux/class.redux-plugin.php:308
+msgid "Click here to activate the sample config file."
+msgstr ""
+
+#: ../settings/redux/class.redux-plugin.php:412
+msgid "Repo"
+msgstr ""
+
+#: ../settings/redux/class.redux-plugin.php:413
+msgid "Generator"
+msgstr ""
+
+#: ../settings/redux/class.redux-plugin.php:414
+msgid "Issues"
+msgstr ""
+
+#: ../settings/redux/class.redux-plugin.php:415
+msgid "Documentation"
+msgstr ""
+
+#: ../settings/redux/class.redux-plugin.php:420
+msgid "Deactivate Demo Mode"
+msgstr ""
+
+#: ../settings/redux/class.redux-plugin.php:422
+msgid "Activate Demo Mode"
+msgstr ""
+
+#: ../sidebar.php:20
+msgid "Meta"
+msgstr ""
+
+#: ../woocommerce/cart/cart-empty.php:25 ../woocommerce/cart/mini-cart.php:67
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: ../woocommerce/cart/cart-empty.php:29
+msgid "Return To Shop"
+msgstr ""
+
+#: ../woocommerce/cart/cart-shipping.php:16
+#, php-format
+msgid "Shipping #%d"
+msgstr ""
+
+#: ../woocommerce/cart/cart-shipping.php:18
+msgid "Shipping and Handling"
+msgstr ""
+
+#: ../woocommerce/cart/cart-shipping.php:55
+msgid ""
+"No shipping methods were found; please recalculate your shipping or continue "
+"to checkout and enter your full address to see if there is shipping "
+"available to your location."
+msgstr ""
+
+#: ../woocommerce/cart/cart-shipping.php:59
+msgid "Please fill in your details to see available shipping methods."
+msgstr ""
+
+#: ../woocommerce/cart/cart-shipping.php:69
+#: ../woocommerce/cart/cart-shipping.php:77
+#, php-format
+msgid "Sorry, shipping is unavailable %s."
+msgstr ""
+
+#: ../woocommerce/cart/cart-shipping.php:69
+#: ../woocommerce/cart/cart-shipping.php:77
+msgid ""
+"If you require assistance or wish to make alternate arrangements please "
+"contact us."
+msgstr ""
+
+#: ../woocommerce/cart/cart-shipping.php:93
+msgid "Shipping"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:16
+msgid "Cart Totals"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:21
+#: ../woocommerce/checkout/review-order.php:61
+msgid "Cart Subtotal"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:75
+#: ../woocommerce/checkout/review-order.php:115
+msgid "Order Total"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:87
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:90
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:34
+#: ../woocommerce/single-product/add-to-cart/simple.php:35
+#: ../woocommerce/single-product/add-to-cart/variable.php:97
+msgid "Qty"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:35
+msgid "Quantity"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:37 ../woocommerce/checkout/review-order.php:22
+#: ../woocommerce/myaccount/my-orders.php:35
+#: ../woocommerce/order/order-details.php:28
+msgid "Total"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:86
+msgid "Available on backorder"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:114 ../woocommerce/cart/mini-cart.php:47
+msgid "Remove this item"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:144
+msgid "Enter Coupon Code"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:144
+msgid "Apply"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:154
+msgid "Update Cart"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:155
+msgid "Proceed to Checkout"
+msgstr ""
+
+#: ../woocommerce/cart/cross-sells.php:39
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: ../woocommerce/cart/mini-cart.php:74
+msgid "Subtotal"
+msgstr ""
+
+#: ../woocommerce/cart/mini-cart.php:79
+msgid "View Cart"
+msgstr ""
+
+#: ../woocommerce/cart/mini-cart.php:80
+msgid "Checkout"
+msgstr ""
+
+#: ../woocommerce/checkout/form-billing.php:15
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: ../woocommerce/checkout/form-billing.php:19
+#: ../woocommerce/myaccount/form-edit-address.php:14
+#: ../woocommerce/myaccount/my-address.php:19
+#: ../woocommerce/myaccount/my-address.php:25
+#: ../woocommerce/order/order-details.php:133
+msgid "Billing Address"
+msgstr ""
+
+#: ../woocommerce/checkout/form-billing.php:39
+msgid "Create an account?"
+msgstr ""
+
+#: ../woocommerce/checkout/form-billing.php:50
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+
+#: ../woocommerce/checkout/form-checkout.php:18
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: ../woocommerce/checkout/form-checkout.php:53
+msgid "Your order"
+msgstr ""
+
+#: ../woocommerce/checkout/form-coupon.php:17
+msgid "Have a coupon?"
+msgstr ""
+
+#: ../woocommerce/checkout/form-coupon.php:18
+msgid "Click here to enter your code"
+msgstr ""
+
+#: ../woocommerce/checkout/form-coupon.php:30
+msgid "Coupon code"
+msgstr ""
+
+#: ../woocommerce/checkout/form-coupon.php:34
+msgid "Apply Coupon"
+msgstr ""
+
+#: ../woocommerce/checkout/form-login.php:14
+msgid "Returning customer?"
+msgstr ""
+
+#: ../woocommerce/checkout/form-login.php:15
+msgid "Click here to login"
+msgstr ""
+
+#: ../woocommerce/checkout/form-login.php:28
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. <br />If you are a new customer please proceed to the Billing &amp; "
+"Shipping section."
+msgstr ""
+
+#: ../woocommerce/checkout/form-shipping.php:30
+#: ../woocommerce/myaccount/form-edit-address.php:14
+#: ../woocommerce/myaccount/my-address.php:20
+#: ../woocommerce/order/order-details.php:148
+msgid "Shipping Address"
+msgstr ""
+
+#: ../woocommerce/checkout/form-shipping.php:34
+msgid "Ship to a different address?"
+msgstr ""
+
+#: ../woocommerce/checkout/form-shipping.php:59
+msgid "Additional Information"
+msgstr ""
+
+#: ../woocommerce/checkout/review-order.php:107
+msgid "Coupon:"
+msgstr ""
+
+#: ../woocommerce/checkout/review-order.php:167
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: ../woocommerce/checkout/review-order.php:169
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: ../woocommerce/checkout/review-order.php:180
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+
+#: ../woocommerce/checkout/review-order.php:180
+msgid "Update totals"
+msgstr ""
+
+#: ../woocommerce/checkout/review-order.php:191
+msgid "I have read and accept the"
+msgstr ""
+
+#: ../woocommerce/checkout/review-order.php:191
+msgid "terms &amp; conditions"
+msgstr ""
+
+#: ../woocommerce/checkout/review-order.php:196
+msgid "Place order"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:22
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction."
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:26
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:28
+msgid "Please attempt your purchase again."
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:32
+#: ../woocommerce/myaccount/my-orders.php:71
+msgid "Pay"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:34
+msgid "My Account"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:40
+#: ../woocommerce/checkout/thankyou.php:85
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:46
+msgid "Order:"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:50
+msgid "Date:"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:54
+msgid "Total:"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:59
+msgid "Payment method:"
+msgstr ""
+
+#: ../woocommerce/content-product.php:99
+#: ../woocommerce/content-single-product.php:98
+msgid "Out of stock"
+msgstr ""
+
+#: ../woocommerce/global/breadcrumb.php:63
+msgid "Products tagged &ldquo;"
+msgstr ""
+
+#: ../woocommerce/global/breadcrumb.php:91
+#: ../woocommerce/global/breadcrumb.php:189
+msgid "Search results for &ldquo;"
+msgstr ""
+
+#: ../woocommerce/global/breadcrumb.php:147
+msgid "Error 404"
+msgstr ""
+
+#: ../woocommerce/global/breadcrumb.php:193
+msgid "Posts tagged &ldquo;"
+msgstr ""
+
+#: ../woocommerce/global/breadcrumb.php:198
+msgid "Author:"
+msgstr ""
+
+#: ../woocommerce/global/breadcrumb.php:203
+msgid "Page"
+msgstr ""
+
+#: ../woocommerce/loop/no-products-found.php:15
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: ../woocommerce/loop/orderby.php:22
+msgid "Default sorting"
+msgstr ""
+
+#: ../woocommerce/loop/orderby.php:23
+msgid "Sort by popularity"
+msgstr ""
+
+#: ../woocommerce/loop/orderby.php:24
+msgid "Sort by average rating"
+msgstr ""
+
+#: ../woocommerce/loop/orderby.php:25
+msgid "Sort by newness"
+msgstr ""
+
+#: ../woocommerce/loop/orderby.php:26
+msgid "Sort by price: low to high"
+msgstr ""
+
+#: ../woocommerce/loop/orderby.php:27
+msgid "Sort by price: high to low"
+msgstr ""
+
+#: ../woocommerce/loop/result-count.php:22
+msgid "Filter Products"
+msgstr ""
+
+#: ../woocommerce/loop/result-count.php:34
+msgid "Showing the single result"
+msgstr ""
+
+#: ../woocommerce/loop/result-count.php:36
+#, php-format
+msgid "Showing all %d results"
+msgstr ""
+
+#: ../woocommerce/loop/result-count.php:38
+#, php-format
+msgctxt "%1$d = first, %2$d = last, %3$d = total"
+msgid "Showing %1$d - %2$d of %3$d results"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:23
+msgid "First name"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:27
+msgid "Last name"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:36
+msgid "Leave blank to leave unchanged"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:39
+msgid "Confirm new password"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:44
+msgid "Save changes"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-address.php:39
+msgid "Save Address"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:58
+#: ../woocommerce/myaccount/form-login.php:88
+msgid "Login"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:61
+#: ../woocommerce/myaccount/form-login.php:134
+msgid "Register"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:73
+#: ../woocommerce/myaccount/form-lost-password.php:65
+msgid "Username or email address *"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:77
+#: ../woocommerce/myaccount/form-login.php:123
+msgid "Password *"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:86
+msgid "Remember me"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:93
+msgid "Lost your password?"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:111
+msgid "Username *"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:118
+msgid "Email *"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:127
+msgid "Anti-spam"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-lost-password.php:61
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+
+#: ../woocommerce/myaccount/form-lost-password.php:70
+msgid "Enter a new password below."
+msgstr ""
+
+#: ../woocommerce/myaccount/form-lost-password.php:74
+msgid "New password *"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-lost-password.php:78
+msgid "Re-enter new password *"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-lost-password.php:88
+msgid "Reset Password"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-lost-password.php:88
+msgid "Save"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-account.php:23
+#, php-format
+msgid "Hello %1$s (not %1$s? <a href=\"%2$s\">Sign out</a>)."
+msgstr ""
+
+#: ../woocommerce/myaccount/my-account.php:28
+#, php-format
+msgid ""
+"From your account dashboard you can view your recent orders, manage your "
+"shipping and billing addresses and <a href=\"%s\">edit your password and "
+"account details</a>."
+msgstr ""
+
+#: ../woocommerce/myaccount/my-address.php:17
+msgid "My Addresses"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-address.php:23
+msgid "My Address"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-address.php:35
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: ../woocommerce/myaccount/my-address.php:67
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: ../woocommerce/myaccount/my-downloads.php:18
+msgid "Available downloads"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-downloads.php:29
+#, php-format
+msgid "%s download remaining"
+msgid_plural "%s downloads remaining"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../woocommerce/myaccount/my-orders.php:26
+msgid "Recent Orders"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-orders.php:33
+msgid "Date"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-orders.php:62
+#, php-format
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../woocommerce/myaccount/my-orders.php:78
+msgid "Cancel"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-orders.php:84
+msgid "View"
+msgstr ""
+
+#: ../woocommerce/order/form-tracking.php:18
+msgid ""
+"To track your order please enter your Order ID in the box below and press "
+"return. This was given to you on your receipt and in the confirmation email "
+"you should have received."
+msgstr ""
+
+#: ../woocommerce/order/form-tracking.php:31
+msgid "Order ID"
+msgstr ""
+
+#: ../woocommerce/order/form-tracking.php:31
+msgid "Found in your order confirmation email."
+msgstr ""
+
+#: ../woocommerce/order/form-tracking.php:32
+msgid "Billing Email"
+msgstr ""
+
+#: ../woocommerce/order/form-tracking.php:32
+msgid "Email you used during checkout."
+msgstr ""
+
+#: ../woocommerce/order/form-tracking.php:35
+msgid "Track"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:21
+msgid "Order Details"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:62
+#, php-format
+msgid "Download file%s"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:112
+msgid "Customer details"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:116
+msgid "Email:"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:117
+msgid "Telephone:"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:137
+#: ../woocommerce/order/order-details.php:152
+msgid "N/A"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:26
+#, php-format
+msgid "%s review for %s"
+msgid_plural "%s reviews for %s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../woocommerce/single-product-reviews.php:28
+msgid "Reviews"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:49
+msgid "There are no reviews yet."
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:62
+msgid "Add a review"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:62
+msgid "Be the first to review"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:63
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:69
+msgid "Email"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:72
+msgid "Submit"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:78
+msgid "Your Rating"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:79
+msgid "Rate&hellip;"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:80
+msgid "Perfect"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:81
+msgid "Good"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:82
+msgid "Average"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:83
+msgid "Not that bad"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:84
+msgid "Very Poor"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:88
+msgid "Your Review"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:97
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: ../woocommerce/single-product/add-to-cart/variable.php:29
+msgid "Choose an option"
+msgstr ""
+
+#: ../woocommerce/single-product/add-to-cart/variable.php:79
+msgid "Clear selection"
+msgstr ""
+
+#: ../woocommerce/single-product/add-to-cart/variable.php:116
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: ../woocommerce/single-product/meta.php:21
+#: ../woocommerce/single-product/meta_backup.php:21
+msgid "SKU:"
+msgstr ""
+
+#: ../woocommerce/single-product/meta.php:22
+#: ../woocommerce/single-product/meta_backup.php:22
+msgid "n/a"
+msgstr ""
+
+#: ../woocommerce/single-product/meta.php:28
+#: ../woocommerce/single-product/meta_backup.php:28
+msgid "<span class=\"product_meta_title\">Category:</span>"
+msgid_plural "<span class=\"product_meta_title\">Categories:</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../woocommerce/single-product/meta.php:30
+msgid "<span class=\"product_meta_title\">Tag:</span>"
+msgid_plural "<span class=\"product_meta_title\">Tags:</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../woocommerce/single-product/meta_backup.php:30
+msgid ""
+"<span class=\"product_meta_separator\"> / </span><span class="
+"\"product_meta_title\">Tag:</span>"
+msgid_plural "<span class=\"product_meta_title\">Tags:</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../woocommerce/single-product/rating.php:23
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: ../woocommerce/single-product/rating.php:25
+#: ../woocommerce/single-product/review.php:28
+msgid "out of 5"
+msgstr ""
+
+#: ../woocommerce/single-product/rating.php:28
+#, php-format
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../woocommerce/single-product/recently-viewed.php:27
+msgid "Recently Viewed"
+msgstr ""
+
+#: ../woocommerce/single-product/related.php:35
+msgid "Related Products"
+msgstr ""
+
+#: ../woocommerce/single-product/review.php:27
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: ../woocommerce/single-product/review.php:35
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: ../woocommerce/single-product/review.php:45
+msgid "verified owner"
+msgstr ""
+
+#: ../woocommerce/single-product/up-sells.php:38
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: ../woocommerce/wishlist-widget.php:110 ../woocommerce/wishlist.php:104
+msgid "Free!"
+msgstr ""
+
+#: ../woocommerce/wishlist-widget.php:121 ../woocommerce/wishlist.php:117
+msgid "Out of Stock"
+msgstr ""
+
+#: ../woocommerce/wishlist-widget.php:124 ../woocommerce/wishlist.php:120
+msgid "In Stock"
+msgstr ""
+
+#: ../woocommerce/wishlist-widget.php:138 ../woocommerce/wishlist.php:132
+msgid "Remove this product"
+msgstr ""
+
+#: ../woocommerce/wishlist-widget.php:172
+msgid "No products were added to the wishlist."
+msgstr ""
+
+#: ../woocommerce/wishlist.php:158
+msgid "No products were added <br /> to the wishlist"
+msgstr ""

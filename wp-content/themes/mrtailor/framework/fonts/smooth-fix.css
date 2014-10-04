@@ -1,0 +1,13 @@
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    @font-face {
+        font-family: 'FontAwesome';
+        src: url('font-awesome/fonts/fontawesome-webfont.svg?v=4.0.3#fontawesomeregular') format('svg');
+    }
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    @font-face {
+        font-family: 'getbowtied-icons';
+        src: url('getbowtied-fonts/fonts/getbowtied-icons.svg#getbowtied-icons') format('svg');
+    }
+}

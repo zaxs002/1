@@ -1,0 +1,16 @@
+/**********************************************************************************/
+/* Theme Options ******************************************************************/
+/**********************************************************************************/
+
+#wp-admin-bar-theme_options .dashicons-admin-generic:before {
+	content: "\f108";
+	top:2px;
+}
+
+#adminmenu #toplevel_page_theme_options .menu-icon-generic div.wp-menu-image:before {
+	content: "\f108";
+}
+
+.vc-license-activation-notice {
+	display:none;
+}

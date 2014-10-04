@@ -1,0 +1,107 @@
+.animated {
+    -webkit-animation-fill-mode: both;
+    -moz-animation-fill-mode: both;
+    -ms-animation-fill-mode: both;
+    -o-animation-fill-mode: both;
+    animation-fill-mode: both;
+    -webkit-animation-duration: .7s;
+    -moz-animation-duration: .7s;
+    -ms-animation-duration: .7s;
+    -o-animation-duration: .7s;
+    animation-duration: .7s;
+}
+
+/**********************************************************************************/
+/* flipY **************************************************************************/
+/**********************************************************************************/
+
+.flipY {
+    -webkit-animation-name: flipY;
+    -moz-animation-name: flipY;
+    -o-animation-name: flipY;
+    animation-name: flipY;
+	
+	-webkit-backface-visibility: visible !important;
+	-moz-backface-visibility: visible !important;
+	-o-backface-visibility: visible !important;
+	backface-visibility: visible !important;
+}
+
+@-webkit-keyframes flipY {
+    0% {
+        -webkit-transform: perspective(400px) rotateY(-30deg);
+        opacity: 0;
+    }
+
+    40% { -webkit-transform: perspective(400px) rotateY(2deg) }
+
+    100% {
+        -webkit-transform: perspective(400px) rotateY(0deg);
+        opacity: 1;
+    }
+}
+
+/**********************************************************************************/
+/* flipYSmall **************************************************************************/
+/**********************************************************************************/
+
+.flipYSmall {
+    -webkit-animation-name: flipYSmall;
+    -moz-animation-name: flipYSmall;
+    -o-animation-name: flipYSmall;
+    animation-name: flipYSmall;
+	
+	-webkit-backface-visibility: visible !important;
+	-moz-backface-visibility: visible !important;
+	-o-backface-visibility: visible !important;
+	backface-visibility: visible !important;
+}
+
+@-webkit-keyframes flipYSmall {
+    0% {
+        -webkit-transform: perspective(30px) rotateY(-180deg);
+        opacity: 0;
+    }
+
+    40% { -webkit-transform: perspective(30px) rotateY(20deg) }
+
+    100% {
+        -webkit-transform: perspective(30px) rotateY(0deg);
+        opacity: 1;
+    }
+}
+
+
+
+
+
+/**********************************************************************************/
+/* Menu ***************************************************************************/
+/**********************************************************************************/
+
+/*
+.sf-menu ul {	
+    -webkit-animation-fill-mode: both;
+    -moz-animation-fill-mode: both;
+    -ms-animation-fill-mode: both;
+    -o-animation-fill-mode: both;
+    animation-fill-mode: both;
+	
+    -webkit-animation-duration: .5s;
+    -moz-animation-duration: .5s;
+    -ms-animation-duration: .5s;
+    -o-animation-duration: .5s;
+    animation-duration: .5s;
+	
+    -webkit-animation-name: flipY;
+    -moz-animation-name: flipY;
+    -o-animation-name: flipY;
+    animation-name: flipY;
+	
+	-webkit-backface-visibility: visible !important;
+	-moz-backface-visibility: visible !important;
+	-o-backface-visibility: visible !important;
+	backface-visibility: visible !important;
+}
+*/
+
